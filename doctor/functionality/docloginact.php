@@ -44,5 +44,9 @@ if ($login) {
 		</script>
 <?php
 	}
-}
-?>
+} else {
+	?>
+<script type="text/javascript">
+	alert("Login Failed ! Please try again !!");
+	window.location = '../index.php';
+</script>
