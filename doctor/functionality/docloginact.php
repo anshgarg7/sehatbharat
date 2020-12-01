@@ -50,3 +50,4 @@ if ($login) {
 	alert("Login Failed ! Please try again !!");
 	window.location = '../index.php';
 </script>
+<?php } ?>
