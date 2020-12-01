@@ -1,0 +1,8 @@
+1. Feedback form for hospital and doctor.
+2. Google Maps location and address of the nearby hospitals and pharmacies (static)
+3. Availability of the doctor at that time
+4. Blog part for the patients to share their treatment experience specially the COVID 19
+5. Page for current affairs in the medical dept. (maybe)
+6. Notice Board (maybe)
+7. Job requirements 
+8. Lab tests portal might also be required
