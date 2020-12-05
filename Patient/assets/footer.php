@@ -5,7 +5,7 @@
             <div class="container">
                 <div class="row align-items-center">
                     <p class="footer-text m-0 col-lg-8 col-md-18">
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Coded with <i class="ti-heart" aria-hidden="true"></i>  by Ansh & Tarun for a better internet</p>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Coded by Ansh, Aaditya, Shobhit, Manav</p>
                     <div class="col-lg-4 col-md-12 text-center text-lg-right footer-social">
                         <a href="#"><i class="ti-facebook"></i></a>
                         <a href="#"> <i class="ti-twitter"></i> </a>
